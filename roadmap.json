@@ -1,0 +1,266 @@
+{
+  "name": "AI Engineering Lab",
+  "total_weeks": 52,
+  "weeks": [
+    {
+      "week": 1,
+      "title": "CLI AI Assistant",
+      "problem": "Build a terminal assistant with conversation history."
+    },
+    {
+      "week": 2,
+      "title": "Prompt Testing Playground",
+      "problem": "Compare prompt versions using the same test inputs."
+    },
+    {
+      "week": 3,
+      "title": "LLM REST API",
+      "problem": "Expose an LLM through a validated FastAPI service."
+    },
+    {
+      "week": 4,
+      "title": "AI Service Containerization",
+      "problem": "Package an AI API using Docker."
+    },
+    {
+      "week": 5,
+      "title": "API Authentication and Usage Limits",
+      "problem": "Implement API keys, quotas and rate limiting."
+    },
+    {
+      "week": 6,
+      "title": "Background AI Job Processor",
+      "problem": "Process slow AI tasks asynchronously."
+    },
+    {
+      "week": 7,
+      "title": "LLM Cost Calculator",
+      "problem": "Track tokens and estimate AI application costs."
+    },
+    {
+      "week": 8,
+      "title": "Structured Information Extractor",
+      "problem": "Convert unstructured text into validated JSON."
+    },
+    {
+      "week": 9,
+      "title": "Multi-Provider LLM Gateway",
+      "problem": "Route requests across multiple AI providers."
+    },
+    {
+      "week": 10,
+      "title": "AI Response Caching Experiment",
+      "problem": "Compare exact-match and semantic caching."
+    },
+    {
+      "week": 11,
+      "title": "Prompt Versioning System",
+      "problem": "Track prompt changes and compare versions."
+    },
+    {
+      "week": 12,
+      "title": "AI Evaluation Benchmark",
+      "problem": "Build a repeatable AI evaluation framework."
+    },
+    {
+      "week": 13,
+      "title": "AI Application CI Pipeline",
+      "problem": "Automate testing with GitHub Actions."
+    },
+    {
+      "week": 14,
+      "title": "PDF Intelligence Engine",
+      "problem": "Ingest and search information in PDF documents."
+    },
+    {
+      "week": 15,
+      "title": "Vector Database Shootout",
+      "problem": "Benchmark different vector databases."
+    },
+    {
+      "week": 16,
+      "title": "Smart Document Chunking",
+      "problem": "Compare document chunking strategies."
+    },
+    {
+      "week": 17,
+      "title": "Hybrid Search Engine",
+      "problem": "Combine keyword and vector search."
+    },
+    {
+      "week": 18,
+      "title": "Reranking Experiment",
+      "problem": "Improve retrieval relevance using reranking."
+    },
+    {
+      "week": 19,
+      "title": "Citation-Based RAG",
+      "problem": "Generate answers with verifiable citations."
+    },
+    {
+      "week": 20,
+      "title": "Multi-Document Knowledge Assistant",
+      "problem": "Answer questions across multiple documents."
+    },
+    {
+      "week": 21,
+      "title": "RAG Evaluation Lab",
+      "problem": "Measure retrieval and answer quality."
+    },
+    {
+      "week": 22,
+      "title": "Incremental Document Ingestion",
+      "problem": "Update document indexes efficiently."
+    },
+    {
+      "week": 23,
+      "title": "Tables and Images in Documents",
+      "problem": "Extract information from tables and scanned pages."
+    },
+    {
+      "week": 24,
+      "title": "Natural Language to SQL",
+      "problem": "Convert questions into safe read-only SQL."
+    },
+    {
+      "week": 25,
+      "title": "Codebase Q&A Assistant",
+      "problem": "Answer developer questions using source code."
+    },
+    {
+      "week": 26,
+      "title": "Conversational RAG Memory",
+      "problem": "Retrieve useful context across conversations."
+    },
+    {
+      "week": 27,
+      "title": "Function Calling Assistant",
+      "problem": "Let an LLM call controlled application functions."
+    },
+    {
+      "week": 28,
+      "title": "ReAct Agent Experiment",
+      "problem": "Compare direct answers with tool-using agents."
+    },
+    {
+      "week": 29,
+      "title": "LangGraph Workflow",
+      "problem": "Build stateful multi-step AI workflows."
+    },
+    {
+      "week": 30,
+      "title": "Research and Report Agent",
+      "problem": "Research topics and produce cited reports."
+    },
+    {
+      "week": 31,
+      "title": "Agent Guardrails",
+      "problem": "Restrict agent tools and validate inputs."
+    },
+    {
+      "week": 32,
+      "title": "Agent Evaluation Benchmark",
+      "problem": "Measure agent task completion."
+    },
+    {
+      "week": 33,
+      "title": "Human Approval Workflow",
+      "problem": "Require human approval before consequential actions."
+    },
+    {
+      "week": 34,
+      "title": "Multi-Agent Collaboration Experiment",
+      "problem": "Compare single-agent and multi-agent systems."
+    },
+    {
+      "week": 35,
+      "title": "Agentic RAG",
+      "problem": "Build agents that retrieve additional evidence."
+    },
+    {
+      "week": 36,
+      "title": "Browser Automation Assistant",
+      "problem": "Automate controlled browser tasks."
+    },
+    {
+      "week": 37,
+      "title": "Long-Term Agent Memory",
+      "problem": "Store and retrieve information across tasks."
+    },
+    {
+      "week": 38,
+      "title": "Workflow vs Agent Benchmark",
+      "problem": "Compare deterministic workflows with agents."
+    },
+    {
+      "week": 39,
+      "title": "Agent Observability Dashboard",
+      "problem": "Monitor agent execution and failures."
+    },
+    {
+      "week": 40,
+      "title": "Full-Stack AI Application",
+      "problem": "Build a complete AI-powered application."
+    },
+    {
+      "week": 41,
+      "title": "Multi-Tenant AI SaaS",
+      "problem": "Serve multiple organizations securely."
+    },
+    {
+      "week": 42,
+      "title": "Fine-Tuning vs Prompting",
+      "problem": "Compare fine-tuning and prompt engineering."
+    },
+    {
+      "week": 43,
+      "title": "Local LLM Deployment",
+      "problem": "Run an AI model locally."
+    },
+    {
+      "week": 44,
+      "title": "Model Routing and Fallbacks",
+      "problem": "Route requests based on cost and quality."
+    },
+    {
+      "week": 45,
+      "title": "AI Safety and Security Layer",
+      "problem": "Implement layered AI safety checks."
+    },
+    {
+      "week": 46,
+      "title": "AI Load Testing",
+      "problem": "Measure AI service performance under load."
+    },
+    {
+      "week": 47,
+      "title": "Prompt Injection Security Lab",
+      "problem": "Test and defend against prompt injection."
+    },
+    {
+      "week": 48,
+      "title": "Capstone Problem Discovery and Architecture",
+      "problem": "Identify a real problem and design its solution."
+    },
+    {
+      "week": 49,
+      "title": "Capstone Core Backend and AI",
+      "problem": "Build the capstone backend and AI workflows."
+    },
+    {
+      "week": 50,
+      "title": "Capstone Frontend and Integration",
+      "problem": "Build and integrate the user interface."
+    },
+    {
+      "week": 51,
+      "title": "Capstone Deployment and Evaluation",
+      "problem": "Deploy and evaluate the capstone."
+    },
+    {
+      "week": 52,
+      "title": "Portfolio and Open Source Week",
+      "problem": "Polish projects and contribute to open source."
+    }
+  ]
+}
