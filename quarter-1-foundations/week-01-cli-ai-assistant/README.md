@@ -111,7 +111,7 @@ Copy `.env.example` to `.env` and add your own OpenRouter API key.
 Example `.env` configuration:
 
 ```env
-OPENROUTER_API_KEY=your_openrouter_api_key_here
+OPENROUTER_API_KEY=your_openrouter_api_key_here(you can get the api from openrouter for free)
 OPENROUTER_MODEL=nvidia/nemotron-3.5-lightning:free
 ```
 
