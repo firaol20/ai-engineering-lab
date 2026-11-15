@@ -2,6 +2,14 @@
 
 A 52-week experiment-driven AI Engineering portfolio.
 
+## Completed Projects
+
+### Quarter 1 — Foundations
+
+| Week | Project | Description | Status |
+|---|---|---|---|
+| 01 | [AI CLI Assistant](quarter-1-foundations/week-01-cli-ai-assistant/) | Python CLI assistant with LLM integration, conversation memory, and streaming | Completed |
+
 ## Roadmap
 
 | Quarter | Focus | Weeks |
