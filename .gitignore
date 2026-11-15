@@ -16,3 +16,4 @@ artifacts/
 outputs/
 *.sqlite3
 *.db
+
